@@ -1,8 +1,8 @@
 - 👋 Olá, eu sou @soraiasiquelli
-- 👀 Eu estou interassada em trabalhar como Dev. Front End
-- 🌱 Atualmente estou aprendendo React
-- 💞️ I’m looking to collaborate on ...
-- 📫 Contate-me em: sosoosiquelli@gmail.com
+- 📓 Sou estudante de Ciência da Computação da Universidade Municipal de São Caetano do Sul
+- 📓 Sou formada no curso de Desenvolvimento de Sistemas pela Instituição SENAI
+- 💻 Faço projetos pessoais para praticar meus conhecimentos em Front-End
+- 📧 Aqui está o email para entrar em contato comigo :) sosoosiquelli@gmail.com
 
 <!---
 soraiasiquelli/soraiasiquelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
