@@ -1,6 +1,7 @@
 - 👋 Olá, eu sou @soraiasiquelli
 - 📓 Sou estudante de Ciência da Computação da Universidade Municipal de São Caetano do Sul
 - 📓 Sou formada no curso de Desenvolvimento de Sistemas pela Instituição SENAI
+- 💻 Atuo atualmente como analista de SEO e desenvolvimento WEB pelo WordPress
 - 💻 Faço projetos pessoais para praticar meus conhecimentos em Front-End
 - 📧 Aqui está o email para entrar em contato comigo :) sosoosiquelli@gmail.com
 
