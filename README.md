@@ -1,22 +1,25 @@
-<h1 align="center">Olá, eu sou a Soraia 👋</h1>
-
-<h3 align="center">Estudante de Ciência da Computação | Desenvolvedora Full-Stack</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=E63946&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+%7C+AWS;React+%7C+Angular+%7C+Node.js;Construindo+SaaS+do+zero+%F0%9F%9A%80" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:6A040F,100:E63946&height=220&section=header&text=HELLO%20WORLD&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=BEM-VINDO%20AO%20MEU%20PERFIL&descAlignY=60&descSize=18&animation=fadeIn" />
 </p>
 
----
+<table width="100%">
+<tr>
+<td align="left">🎓 &nbsp;<b>USCS</b> — Ciência da Computação</td>
+<td align="right">✉️ &nbsp;<b>sosoosiquelli@gmail.com</b></td>
+</tr>
+</table>
 
-### 🚀 Sobre mim
+<br>
 
-- 🎓 6º semestre de **Ciência da Computação** na **USCS**, formatura prevista para 2027
-- 💼 Estagiária em **Desenvolvimento e Dados** no **Santander Brasil**, automatizando processos com Power Apps, Power Automate, Python e SQL
+## 👋 EU SOU A SORAIA!
+
+*Desenvolvedora Full-Stack (Java • React • Angular)*
+
+- 🎓 7º semestre de **Ciência da Computação** na **USCS**, formatura prevista para 2027
+- 💼 Estagiária em **Desenvolvimento e Dados** no **Santander Brasil**
 - 📓 Técnica em **Desenvolvimento de Sistemas** pelo **SENAI**
-- 🔭 Atualmente construindo o **SpeedOrder**, uma plataforma SaaS B2B de gestão para restaurantes, sozinha — do front ao deploy
-- 🌱 Aprofundando conhecimentos em **AWS, Angular, RxJS e testes automatizados**
-- 👀 Aberta a oportunidades como **desenvolvedora júnior** (back-end Java/AWS ou front-end Angular)
-- 📫 Contato: **sosoosiquelli@gmail.com**
+- 🌱 Aprofundando **AWS, Angular, RxJS e testes automatizados**
+- 👀 Aberta a oportunidades como **desenvolvedora júnior**
 
 ---
 
@@ -52,26 +55,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-</p>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=soraiasiquelli&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soraiasiquelli&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 🌐 Conecte-se comigo
-
-<p align="left">
-  <a href="mailto:sosoosiquelli@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/soraiasiquelli" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
